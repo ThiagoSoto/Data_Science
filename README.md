@@ -16,7 +16,6 @@ Projeto de classificação binária usando o dataset clássico do Kaggle (Titani
 
 ## Aprendizados
 - Random Forest com poucos parâmetros ajustados não superou de forma consistente a Regressão Logística
-- [qualquer outra conclusão sua — ex: sobre overfitting, sobre quais features mais pesaram]
 
 ## Próximos passos
 - Cross-validation para comparação mais robusta entre modelos
