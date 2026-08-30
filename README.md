@@ -19,5 +19,4 @@ Projeto de classificação binária usando o dataset clássico do Kaggle (Titani
 - [qualquer outra conclusão sua — ex: sobre overfitting, sobre quais features mais pesaram]
 
 ## Próximos passos
-- Feature engineering adicional (título extraído do Name, tamanho da família)
 - Cross-validation para comparação mais robusta entre modelos
